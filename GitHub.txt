@@ -1,0 +1,20 @@
+Process to Git_Hub installation and Repository setup
+
+1) first I need to visit  github.com > Click on Sign Up >enter email > create password>create user name
+ 
+2) after that a confirmation email would be sent to our email id by confirming that our github account would be created
+
+3) click on (+) choose new repository>add repository_name> create repository
+
+4) since we have already created repository we need to push that into git.
+  we write:
+     
+          git remote add origin https://github.com/kurban530/GithubProfile.git
+          git branch -M main
+          git push -u origin main
+5)sometimes we need to changes in our files so we have must have to clone our repository
+  we write:  
+          git clone https://.... (means url of the repository)
+
+6) Atlast download Desktop for github account for graphical representation (desktop.github.com)
+   then clone our repository of the github account

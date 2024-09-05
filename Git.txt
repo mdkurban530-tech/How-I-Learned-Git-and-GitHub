@@ -1,0 +1,13 @@
+Process to git😊  installation
+
+1) First Visit on website (git-scm.com) to download it .
+2) After downloading and installing an option will pop up to Launch Git Bash (this is the environment where we can run git commands)
+3) As a result Git Bash will open and we see at the top right corner our local server address is written (e.g: user@Desktop..)
+4) Then I have to set username and email_address to manage the git account 
+    git config --global user.name "Md Kurban"
+    git config --global user.email "mdkurban530@gmail.com"
+  
+After that we can verify username and email_address
+  
+    git config  user.name 
+    git config  user.email

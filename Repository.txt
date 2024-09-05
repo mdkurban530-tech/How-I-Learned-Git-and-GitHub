@@ -1,0 +1,22 @@
+Commands to link the files into our local git account as Repository
+
+1) git add Git.txt 
+2) git add GitHub.txt
+3) git add Repository.txt
+----
+---
+** but for all files to add at once git add .
+
+3) to check whether files are added or not we write:
+  git status
+ 
+4) As our files are added but they are still in the staging area so to confirm to add at the Repository 
+   we write:  git commit
+
+**   But it is good practice to add a msg along with the commit command 
+   we write:  git commit -m"adding git, github and Repository files"
+
+5) At last we can verify again whether our files are committed or not
+
+*** If suppose we have changed some content in our files
+then for versioning our files we have to again perform git add command and also git commit commands once again
