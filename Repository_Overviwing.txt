@@ -1,5 +1,5 @@
 How to overview our repository
 
-1) To know what are the commits have done we use: git log 
+1) To know what commits have done we use: git log 
 
-2) To know what are the changes have been made in our Repository we use: git show 
+2) To know what are changes have been made in our Repository we use: git show
