@@ -11,7 +11,7 @@ Commands to link the files into our local git account as Repository
   git status
  
 4) As our files are added but they are still in the Staging area so to confirm to add at the Repository 
-   we write:  git commit
+   we write: git commit
 
 ** But it is good practice to add a msg along with the commit command 
    we write:  git commit -m"adding git, github and Repository files"
@@ -19,4 +19,4 @@ Commands to link the files into our local git account as Repository
 5) At last we can verify again whether our files are committed or not
 
 *** If suppose we have changed some content in our files
-then for versioning our files we have to again perform git add command and also git commit commands once again
+then for versioning our files we have to again perform git add command and also git commit commands once again.
